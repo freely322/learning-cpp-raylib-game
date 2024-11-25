@@ -1,0 +1,3 @@
+C:/Users/chorn/CLionProjects/cpp-2/cmake-build-debug/CMakeFiles/cpp_1.dir
+C:/Users/chorn/CLionProjects/cpp-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chorn/CLionProjects/cpp-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
